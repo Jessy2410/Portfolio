@@ -250,12 +250,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #6d7fd6;}
     content: " ";
     top: 0;
     left:  0;
-    width: 109%;
+    width: 77%;
     height:  100%;
     background: rgba(31,44,108,.3);
 }
 .single-about-img img {
-    max-width: 500px;
+    max-width: 900px;
     height: 468px;
 }
 .about-list-icon{
@@ -265,7 +265,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #6d7fd6;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 109%;
+    width: 77%;
     height: 90px;
     background: #1f2c6c;
 }

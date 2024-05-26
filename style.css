@@ -174,7 +174,9 @@ h1{
     }
 }
 
-
+.about-list-icon{
+    width: 400px;
+}
 .dropdown {
     position: relative;
     display: inline-block;
